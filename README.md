@@ -13,7 +13,7 @@ I'm a Computer Engineering student at Istanbul Arel University, graduating in Ju
 - **Web Development:** React, Node.js, Tailwind CSS
 - **Tools:**  Git
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahakckk&show_icons=true&theme=radical)
 
 ### Connect with me
