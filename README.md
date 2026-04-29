@@ -14,7 +14,7 @@ I'm a Computer Engineering student at Istanbul Arel University, graduating in Ju
 - **Tools:**  Git
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahakckk&show_icons=true&theme=radical)
 
 ### Connect with me
 - [LinkedIn](www.linkedin.com/in/ahmet-taha-küçük-892b6a301)
